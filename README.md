@@ -4,8 +4,7 @@ A Model Context Protocol (MCP) server implementation for a Todo List application
 
 ## 📺 Demo Video
 
-Watch the demo video here: [Todo MCP Server Demo](https://drive.google.com/file/d/1Yb7pFDumEAROewnsaa6BqQ8nDBlNlObc/view?usp=drive_link)
-
+Watch the demo video here: [Todo MCP Server Demo]https://drive.google.com/file/d/1Yb7pFDumEAROewnsaa6BqQ8nDBlNlObc/view?usp=sharing
 ## 🚀 Features
 
 - **FastAPI Backend**: RESTful API for todo management with automatic API documentation
